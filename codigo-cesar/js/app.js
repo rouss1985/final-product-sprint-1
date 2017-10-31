@@ -5,7 +5,7 @@ function cesarConverter(character){
     "A","B","C","D","E","F","G","H","I","J","K","L","M","N","Ñ","O","P","Q","R","S","T","U","V","W","X","Y","Z"
 
   ];
-  //Necesito conocer la posicion del caracter en el arreglo
+  //Necesito conocer la posicion del caracter en el arreglo..
   var positionletter = alfabet.indexOf(character);
   //console.log(positionletter);
   //va a a cifrar el caracter y lo va a mover 33 posicones ala derecha
